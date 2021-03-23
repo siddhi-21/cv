@@ -1,0 +1,10 @@
+form.name{
+	display: table;
+	}
+form.name{
+	display: table-row;
+}
+
+label,input{
+	display: table-cell;
+}
